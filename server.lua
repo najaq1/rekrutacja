@@ -1,4 +1,4 @@
-db = dbConnect( "mysql", "dbname=db_88506;host=137.74.6.118;charset=utf8", "db_88506", "xLzdxSAI4ljB", "share=1" )
+db = dbConnect( "mysql", "dbname=zzz;host=zzzz;charset=utf8", "zzzz", "zzzzz", "share=1" )
 
 marker=createMarker(-2533.00610, -15.86845, 15.42885,"cylinder",6,255,255,255,60, root)
 
